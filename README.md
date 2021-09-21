@@ -1,0 +1,2 @@
+# indeed-scraping
+求人票の応募者情報を自動で収集してExcelに書き出すスクリプト
